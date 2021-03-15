@@ -1,0 +1,11 @@
+Halite
+Finger L W, King H E
+American Mineralogist 63 (1978) 337-342
+A revised method of operation of the single-crystal diamond cell and refinement
+of the structure of NaCl at 32 kbar
+_database_code_amcsd 0000641
+5.4533 5.4533 5.4533 90 90 90 Fm3m
+atom  x  y  z Biso
+Na    0  0  0 1.46
+Cl   .5 .5 .5 1.18
+
